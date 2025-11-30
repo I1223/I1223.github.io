@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "研发国人自己的高端显卡并拥有自主知识产权"
+
 collection: portfolio
 ---
 
